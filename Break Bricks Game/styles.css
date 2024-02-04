@@ -1,0 +1,67 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    position: absolute;
+    left: 320px;
+}
+
+
+#score{
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    font-size: 21px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#scoreNumber{
+    position: absolute;
+    top: 80px;
+    left: 158px;
+    font-size: 21px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orangered;
+}
+
+
+#message{
+    position: absolute;
+    top: 200px;
+    left: 225px;
+    font-size: 20px;
+    font-family: fantasy;
+    color: cornflowerblue;
+}
+
+#restartButton{
+    position: absolute;
+    top: 25px;
+    left: 50px;
+}
+
+#restartButton {
+    background-color: white;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin: auto;
+  }
+  
+#restartButton {
+    color: black;
+    border: 2px solid cornflowerblue;
+}
+  
+#restartButton:hover {
+    background-color: cornflowerblue;
+    color: white;
+}

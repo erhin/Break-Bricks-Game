@@ -1,0 +1,2 @@
+This is a 2D 'Break Bricks' game written in JavaScript by erhin.The game includes only div elements having no canvas. Some CSS is used for simple design. JS is used for both design and functionality, like movements, dynamic changes, etc.
+This code is considered to be the intellectual property of the author. The code can be improved: the programmer may add new level functions, new scoring system parts, fix bugs, advancing the programme.
